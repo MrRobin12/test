@@ -1,1 +1,1 @@
-Creators Welcome - LBS, KRISTIANSTAD 2018
+{"startButton":"true","exitButton":false,"roomCode":4080}
