@@ -1,1 +1,1 @@
-{"startButton":"true","exitButton":"false"}
+{"startButton":"false","exitButton":"true","roomCode":4080}
