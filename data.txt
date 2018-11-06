@@ -1,16 +1,1 @@
-Developer:
-
-* Registera sig via gmail och ditt användarnamn på spelet.
-
-* Få meny om development.
-
-* Development:
-
-- Create a new car
-
-- Create a new map
-
-- Create a new mission/race.
-
-* Submit to Robin.
-
+Hejsan!
