@@ -1,1 +1,1 @@
-{"buttons":{"startButton":"true","exitButton":"false"},"roomCode":4080}
+{"buttons":[0],"roomCode":4080}
