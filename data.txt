@@ -1,1 +1,2 @@
-Test
+Max Engine Torque = 3x of HP
+Max Brake Torque = 3x of Engine Torque
