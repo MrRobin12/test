@@ -1,1 +1,1 @@
-{"buttons":["true","false"],"roomCode":4080}
+{"buttons":[{"bool":false,"name":"Start Button"},{"bool":false,"name":"Start Button"}],"roomCode":4080}
